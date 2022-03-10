@@ -1,0 +1,14 @@
+* {
+	font-family: fantasy;
+	color: darkblue;
+	text-align: center;
+}
+nav {
+	background-color: lightgrey;
+	padding: 11px;
+	margin: 11px;}
+
+li {
+	display: inline-table;
+	padding: 6px;
+}
